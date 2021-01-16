@@ -44,7 +44,7 @@ https://github.com/marutoraman/git-study/blob/main/README.md
 仮想環境は、以下のコマンドで作成できます。  
 [venv]の部分は作成する仮想環境のフォルダ名なので、何でも良いのですが  
 慣例的にvenvとすることが多いです。  
-｀python -m venv [venv]｀
+`python -m venv [venv]`
 
 作成したvenvフォルダ内のvenv/Scripts/python.exeをpythonのインタープリタに設定し  
 ターミナルを起動してください。  
