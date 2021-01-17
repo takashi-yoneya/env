@@ -2,7 +2,7 @@
 当方が推奨するプログラムを開発するための各種環境について纏めます。
 
 ## 総合開発環境
-- VSCODE
+- VSCODE  
 Microsoft製のソースコードエディタです。とても使いやすいので、導入必須です。  
 参考:https://qiita.com/zhikto/items/b255cc9c00fd42862d5e
 
