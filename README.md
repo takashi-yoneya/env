@@ -41,9 +41,9 @@ VSOCDEには便利な拡張機能が多数備わっています。必要に応�
 https://qiita.com/simonritchie/items/33ca57cdb5cb2a12ae16
 - Rainbow CSV  
 CSVをキレイに色付して表示してくれる機能。
-- Markdown
+- Markdown(標準搭載)  
 GithubなどのREMADMEを記述する場合などにMarkdownは役立ちます。
-
+Ctrl + K Vキー押下で、ビュワーが起動できます。
 
 ## ソースコードの保管・バージョン管理(Git)
 プログラムのバージョン管理が簡単に行えるツールです。当方のカリキュラムではGithubにソースコードを保管します。
