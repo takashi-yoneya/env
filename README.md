@@ -44,9 +44,9 @@ CSVをキレイに色付して表示してくれる機能。
 - Markdown(標準搭載)  
 GithubなどのREMADMEを記述する場合などにMarkdownは役立ちます。
 Ctrl + K Vキー押下で、ビュワーが起動できます。
-- Bracket Pair Colorizer 2
+- Bracket Pair Colorizer 2  
 {}や()などのペアが分かりやすいように色分けしてくれる便利機能。
-- Code Spell Checker
+- Code Spell Checker  
 英語が苦手な方は必須機能。<br>
 英文の間違いを指摘してくれるスペルチェッカー。
 
@@ -60,9 +60,15 @@ https://github.com/marutoraman/git-study/blob/main/README.md
 こうすることで、プロジェクト間の無用な干渉を気にする必要がなくなります。  
 
 仮想環境は、以下のコマンドで作成できます。  
-[venv]の部分は作成する仮想環境のフォルダ名なので、何でも良いのですが  
-慣例的にvenvとすることが多いです。  
-`python -m venv [venv]`
+2回目のvenvの部分は作成する仮想環境のフォルダ名なので、何でも良いのですが  
+慣例的にvenvとすることが多いです
+```
+python -m venv venv
+```
+※macOSの場合は以下
+```
+python3 -m venv venv
+```
 
 作成したvenvフォルダ内のvenv/Scripts/python.exeをpythonのインタープリタに設定し  
 ターミナルを起動してください。  
